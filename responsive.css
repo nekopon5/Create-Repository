@@ -98,3 +98,42 @@
     height: 400px;
   }
 }
+
+@media all and (max-width: 350px) {
+  .lesson {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 5px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .header-right{
+    display: none;
+  }
+  
+  
+  .menu-icon{
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 12px;
+  }
+
+  .top-wrapper p {
+    font-size: 7px;
+  }
+  img{
+    width: 300px;
+    height: 300px;
+  }
+}
