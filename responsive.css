@@ -125,15 +125,15 @@
     display: block;
   }
   
-  .top-wrapper h1 {
+   h1 {
     font-size: 12px;
   }
 
-  .top-wrapper p {
+  p {
     font-size: 7px;
   }
   img{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
   }
 }
